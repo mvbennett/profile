@@ -142,3 +142,28 @@ button:hover {
     width: 300px;
   }
 }
+
+.full {
+  width: 100%;
+}
+
+#seoul-bottom {
+  background: transparent;
+  /* background-image: url(images/DSC06409bottom.png); */
+  height: 900px;
+  background-size: cover;
+}
+
+#seoul-top {
+  background-image: url(images/DSC06409fixed.jpg);
+  background-image: url(images/sky.jpg);
+  background-attachment: fixed;
+  height: 900px;
+
+  background-size: cover;
+}
+
+#bottom {
+  width: 100%;
+  margin-top: -800px
+}
